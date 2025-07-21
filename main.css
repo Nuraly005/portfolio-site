@@ -1,0 +1,78 @@
+#{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    front-family: 'inter', sans-serif;
+    background: #f9f9f9;
+    color:#111;
+    line-height: 1.5;
+    padding: 20px;
+}
+nav ul{
+    display:flex;
+    justify-content: flex-end;
+    gap:40px;
+    list-style: none;
+    padding: 20px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #111;
+    font-weight: 500;
+}
+.hero{
+    text-align: center;
+    padding: 60px 20px;
+}
+.hero h1{
+    font-family:'Playfair Display', serif;
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+.btn{
+    display: inline-block;
+    padding: 10px 20px;
+    border: 2px solid #111;
+    text-decoration: none;
+    color: #111;
+    font-weight: 500;
+    transition: background 0.2 ease;
+}
+.btn:hover{
+    background:#111;
+    color:#fff;
+}
+.features{
+    display:flex;
+    justify-content: space-between;
+    padding: 60px 0;
+    text-align: center;
+    gap: 30px;
+}
+.menu-section{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 40px 0;
+    gap:40px;
+}
+.menu-list h2{
+    font-family: 'Plafair Display', serif;
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+.menu-list ul{
+    list-style:none;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+.menu-list ul il{
+    margin-bottom: 8px;
+}
+.menu-image{
+    width: 250px;
+    height: 250px;
+    border:2px solid #111
+}
