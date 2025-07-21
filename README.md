@@ -5,12 +5,16 @@ This repository contains my HTML/CSS layout projects. I created them by converti
 
 ---
 
-## 🔧 Technologies
-- HTML5
-- CSS3 (Flexbox, Grid, Media Queries)
-- Adaptive and responsive design principles
-- BEM naming (in some layouts)
+## 📱 What I Do
 
+- Responsive layouts for mobile and tablet devices  
+- Semantic and accessible HTML structure  
+- CSS3 (Flexbox, Grid, Media Queries)  
+- Pixel-perfect implementation from Figma designs  
+- Adaptive and responsive design principles  
+- Email-style HTML sections  
+- Clean and readable code using HTML5 & CSS3  
+- BEM naming methodology (in some layouts)
 ---
 
 ## 📂 Project List
